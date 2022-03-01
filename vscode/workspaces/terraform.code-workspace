@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../../../github/nmbrs/tf-services"
+		},
+		{
+			"path": "../../../github/nmbrs/tf-modules"
+		},
+		{
+			"path": "../../../github/nmbrs/tf-heimall-demo"
+		}
+	]
+}
